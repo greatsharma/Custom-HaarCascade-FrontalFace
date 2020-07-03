@@ -141,4 +141,3 @@ cython_debug/
 datasets/
 neg/
 pos/
-neg.zip
