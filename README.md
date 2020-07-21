@@ -1,5 +1,5 @@
 # Custom-HaarCascade-FrontalFace
-A custom made haar cascade for frontal face using opencv.
+A custom made haar cascade for frontal face using opencv. Three custom haar-cascades are made using different configurations. The first cascade is the default provided by OpenCV.
 
 ![](outputs/test.gif)
 
